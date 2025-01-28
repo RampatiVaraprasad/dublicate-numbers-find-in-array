@@ -1,1 +1,1 @@
-# dublicate-numbers-find-in-array
+# dublicate-numbers-find-in-arrays
